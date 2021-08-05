@@ -16,3 +16,7 @@
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
 
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+
+---
+
+<img align="left" alt="AlphaVS-76's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlphaVS-76&show_icons=true&hide_border=true"/>
