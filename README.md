@@ -17,4 +17,6 @@
 
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <br/><br/><br/>
-<img align="left" alt="AlphaVS-76's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlphaVS-76&show_icons=true&hide_border=true"/>
+<img align="left" alt="AlphaVS-76's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlphaVS-76&show_icons=true&hide_border=true&theme=dark"/>
+<br/><br/><br/>
+<img align="left" alt="AlphaVs's Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaVS-76&theme=dark"/>
