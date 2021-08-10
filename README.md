@@ -1,6 +1,6 @@
 ## I'm a Fresher at Graphic Era Hill University!!
 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java and Blender
 - 👯 I’m looking forward to collaborating and making projects with other Open Source Contributers
 
 <br />
