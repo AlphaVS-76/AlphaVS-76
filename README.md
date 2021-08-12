@@ -32,3 +32,7 @@
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=AlphaVS-76&theme=redical">
 </p> 
+
+<h2 align="center">Trophies</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlphaVS-76&theme=algolia)](https://github.com/AlphaVS-76/github-profile-trophy)
