@@ -17,22 +17,14 @@
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 
-<br/><br/><br/>
+<br/><br/>
 
 <h2 align="center">GitHub Analytics</h2>
-<p align="center">
-  <img align="left" alt="AlphaVS-76's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlphaVS-76&show_icons=true&hide_border=true&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlphaVS-76&layout=compact&langs_count=8&theme=algolia"/>
-<p/>
 
-<p align = "center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaVS-76&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
-</p>
+<img align="left" alt="AlphaVS-76's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlphaVS-76&show_icons=true&hide_border=true&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlphaVS-76&layout=compact&langs_count=8&theme=algolia"/>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaVS-76&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=AlphaVS-76&theme=redical">
-</p> 
+## 🏆 Github Profile Trophy
 
-<h2 align="center">Trophies</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlphaVS-76&theme=algolia)](https://github.com/AlphaVS-76/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlphaVS-76&theme=buddhism&row=2&column=4)](https://github.com/AlphaVS-76/github-profile-trophy)
