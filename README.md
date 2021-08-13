@@ -1,10 +1,11 @@
-## I'm a Fresher at Graphic Era Hill University!!
+## A Student at Graphic Era Hill University
 
 - 🌱 I’m currently learning Java and Blender
 - 👯 I’m looking forward to collaborating and making projects with other Open Source Contributers
 
 <br />
 
+[![Instagram: Vaibhav Sharma](https://img.shields.io/badge/-VaibhavSharma-darkmagenta?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/_besharam_sharma/)](https://https://www.instagram.com/_besharam_sharma/)
 [![Linkedin: Vaibhav Sharma](https://img.shields.io/badge/-VaibhavSharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)](https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)
 [![GitHub Vaibhav Sharma](https://img.shields.io/github/followers/AlphaVS-76?label=follow&style=social)](https://github.com/AlphaVS-76)
 ![](https://komarev.com/ghpvc/?username=AlphaVS-76&color=blueviolet)
