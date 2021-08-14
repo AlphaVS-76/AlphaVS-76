@@ -2,9 +2,7 @@
 
 - 🌱 I’m currently learning Java and Blender
 - 👯 I’m looking forward to collaborating and making projects with other Open Source Contributers
-
 <br />
-
 [![Instagram: Vaibhav Sharma](https://img.shields.io/badge/-VaibhavSharma-darkmagenta?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_besharam_sharma/)](https://www.instagram.com/_besharam_sharma/)
 [![Linkedin: Vaibhav Sharma](https://img.shields.io/badge/-VaibhavSharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)](https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)
 [![GitHub Vaibhav Sharma](https://img.shields.io/github/followers/AlphaVS-76?label=follow&style=social)](https://github.com/AlphaVS-76)
@@ -21,7 +19,6 @@
 <br/><br/>
 
 <h2 align="center">GitHub Analytics</h2>
-
 <img align="left" alt="AlphaVS-76's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlphaVS-76&show_icons=true&hide_border=true&theme=algolia"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlphaVS-76&layout=compact&langs_count=8&theme=algolia"/>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaVS-76&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
