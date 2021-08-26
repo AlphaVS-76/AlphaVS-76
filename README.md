@@ -2,7 +2,7 @@
 
 - 📖 I’m currently learning Java and Blender.
 - 🤝 I’m looking forward to collaborating and making projects with other Open Source Contributors.
-- 📑 I want to learn Languages/frameworks such as Javascript, C++, MySQL, NodeJS, React, SASS, Bootstrap, PHP in the future.
+- 📑 I want to learn Languages/frameworks/Libraries such as Javascript, C++, MySQL, NodeJS, React, SASS, Bootstrap, PHP, Pandas, NumPy in the future.
 
 <br />
 
