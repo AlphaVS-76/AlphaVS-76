@@ -1,8 +1,8 @@
 ## A Student at Graphic Era Hill University
 
-- 📖 I’m currently learning Java and Blender.
+- 📖 I’m currently learning Java and CPP.
 - 🤝 I’m looking forward to collaborating and making projects with other Open Source Contributors.
-- 📑 I want to learn Languages/frameworks/Libraries such as Javascript, C++, MySQL, NodeJS, React, SASS, Bootstrap, PHP, Pandas, NumPy in the future.
+- 📑 I want to learn Languages/frameworks/Libraries such as JavaScript, MySQL, NodeJS, React, SASS, Bootstrap, PHP, Pandas, NumPy in the future.
 
 <br />
 
