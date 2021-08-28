@@ -1,4 +1,4 @@
-## A Student at Graphic Era Hill University
+## A Sophomore at Graphic Era Hill University
 
 - 📖 I’m currently learning Java and CPP.
 - 🤝 I’m looking forward to collaborating and making projects with other Open Source Contributors.
