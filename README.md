@@ -1,6 +1,6 @@
 ## A Sophomore at Graphic Era Hill University
 
-- 📖 I’m currently learning OOPS in Java / CPP.
+- 📖 I’m currently learning JavaScript and OOPS in Java / CPP.
 - 🤝 I’m looking forward to collaborating and making projects with other Open Source Contributors.
 - 📑 I want to learn Languages/frameworks/Libraries such as JavaScript, MySQL, NodeJS, React, SASS, Bootstrap, PHP, Pandas, NumPy in the future.
 
