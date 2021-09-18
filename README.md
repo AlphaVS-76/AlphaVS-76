@@ -1,8 +1,8 @@
 ## A Sophomore at Graphic Era Hill University
 
-- 📖 I’m currently learning JavaScript and OOPS in Java / CPP.
-- 🤝 I’m looking forward to collaborating and making projects with other Open Source Contributors.
-- 📑 I want to learn Languages/frameworks/Libraries such as JavaScript, MySQL, NodeJS, React, SASS, Bootstrap, PHP, Pandas, NumPy in the future.
+- 📖 I’m currently learning JavaScript.
+- 🤟 Interested in AI/ML and BlockChain.
+- 📑 I want to learn Languages/frameworks/DBs such as MySQL, MongoDB, NodeJS, React, SASS, Bootstrap, PHP, Pandas, NumPy, Vue, Solidity in the future.
 
 <br />
 
