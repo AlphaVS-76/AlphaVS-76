@@ -11,7 +11,7 @@
 [![GitHub Vaibhav Sharma](https://img.shields.io/github/followers/AlphaVS-76?label=follow&style=social)](https://github.com/AlphaVS-76)
 ![](https://komarev.com/ghpvc/?username=AlphaVS-76&color=blueviolet)
 
-### Languages and Tools:
+### Languages and Frameworks:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
