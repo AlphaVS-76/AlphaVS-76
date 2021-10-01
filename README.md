@@ -1,7 +1,7 @@
 ## A Sophomore at Graphic Era Hill University
 
-- 📖 I’m currently learning JavaScript and various Python Modules.
-- 🤟 Interested in AI/ML and BlockChain.
+- 📖 I’m currently learning JavaScript and R Programming.
+- 🤟 Interested in AI/ML, WebDev and BlockChain.
 - 📑 I want to learn Languages/frameworks/DBs such as MySQL, MongoDB, NodeJS, React, SASS, Bootstrap, PHP, Pandas, NumPy, Vue, Solidity in the future.
 
 <br />
