@@ -22,12 +22,13 @@
 <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png"/>
 
 <br/><br/>
-
+<div align="center">
 <h2 align="center">GitHub Analytics</h2>
 <img align="center" alt="AlphaVS-76's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlphaVS-76&show_icons=true&hide_border=true&theme=algolia"/>
 <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlphaVS-76&layout=compact&langs_count=8&theme=algolia"/>
 <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaVS-76&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
-
+</div>
+  
 ## 🏆 Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlphaVS-76&theme=buddhism&row=2&column=4)](https://github.com/AlphaVS-76/github-profile-trophy)
