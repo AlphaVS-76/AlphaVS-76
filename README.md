@@ -1,4 +1,10 @@
-## A Sophomore at Graphic Era Hill University
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Heya,Contributors!👋;I'm+Vaibhav+Sharma....;Hope+Everything's+good!;checkout+my+projects+below!&center=true&size=30">
+  </a>
+</h1>
+
+### More about me:
 
 - 📖 I’m currently learning JavaScript and R Programming.
 - 🤟 Interested in AI/ML, WebDev and BlockChain.
