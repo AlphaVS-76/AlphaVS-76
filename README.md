@@ -10,7 +10,16 @@
 - 🤟 Interested in AI/ML, WebDev and BlockChain.
 - 📑 I want to learn Languages/frameworks/DBs such as MySQL, MongoDB, NodeJS, React, SASS, Bootstrap, PHP, Pandas, NumPy, Vue, Solidity in the future.
 
-<br />
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Playing Now on Spotify🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fwdc183ap0gdz08aet3dmm8s8&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+
+
+---
 
 [![Instagram: Vaibhav Sharma](https://img.shields.io/badge/-VaibhavSharma-darkmagenta?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_besharam_sharma/)](https://www.instagram.com/_besharam_sharma/)
 [![Linkedin: Vaibhav Sharma](https://img.shields.io/badge/-VaibhavSharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)](https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)
