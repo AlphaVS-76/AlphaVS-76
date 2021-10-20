@@ -6,7 +6,7 @@
 
 ### More about me:
 
-- 📖 I’m currently learning JavaScript and R Programming.
+- 📖 I’m currently <strike>learning JavaScript and R Programming</strike> doing college stuff because exams are coming and it is a bitch.
 - 🤟 Interested in AI/ML, WebDev and BlockChain.
 - 📑 I want to learn Languages/frameworks/DBs such as MySQL, MongoDB, NodeJS, React, SASS, Bootstrap, PHP, Pandas, NumPy, Vue, Solidity in the future.
 
