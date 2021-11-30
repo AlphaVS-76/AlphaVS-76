@@ -6,7 +6,7 @@
 
 ### More about me:
 
-- 📖 I’m currently learning OOPS in Java/CPP, Kaggle and R Programming.
+- 📖 I’m currently learning OOPS in Java/CPP, NumPy and R Programming.
 - 🤟 Interested in AI/ML, Data Analytics, WebDev and BlockChain.
 - 📑 I want to try my hands on Languages/frameworks/DBs such as MySQL, MongoDB, PHP, Pandas, NumPy, Tensorflow, Scikit, Solidity in the future.
 
