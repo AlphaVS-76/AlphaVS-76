@@ -6,9 +6,9 @@
 
 ### More about me:
 
-- 📖 I’m currently learning OOPS in Java/CPP, NumPy.
+- 📖 I’m currently learning OOPS in Java/CPP, R Programming.
 - 🤟 Interested in AI/ML, Data Analytics, WebDev and BlockChain.
-- 📑 I want to try my hands on Languages/frameworks/DBs such as MySQL, MongoDB, PHP, Pandas, NumPy, Tensorflow, Scikit, Solidity in the future.
+- 📑 I want to try my hands on Languages/frameworks/DBs such as MySQL, MongoDB, PHP, Pandas, Tensorflow, Scikit, Keras, Solidity in the future.
 
 ---
 
@@ -35,7 +35,8 @@
 <img align="left" alt="CPP" width="26px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png"/>
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png"/>
-<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/76773190/144071757-08b93b78-38d8-4ce4-8d75-211ac89306b8.png"/>
+<img align="left" alt="R Programming" width="26px" src="https://user-images.githubusercontent.com/76773190/144071757-08b93b78-38d8-4ce4-8d75-211ac89306b8.png"/>
+<img align="left" alt="NumPy" width="26px" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png"/>
 
 <br/><br/>
 <!-- <div align="center"> -->
