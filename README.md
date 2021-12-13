@@ -6,7 +6,7 @@
 
 ### More about me:
 
-- 📖 I’m currently learning OOPS in Java/CPP, R Programming.
+- 📖 I’m currently learning OOPS in Java/CPP, MySQL, and Pandas.
 - 🤟 Interested in AI/ML, Data Analytics, WebDev and BlockChain.
 - 📑 I want to try my hands on Languages/frameworks/DBs such as MySQL, MongoDB, PHP, Pandas, Tensorflow, Scikit, Keras, Solidity in the future.
 
