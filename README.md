@@ -39,6 +39,9 @@
 <img align="left" alt="NumPy" width="26px" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png"/>
 
 <br/><br/>
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=paneer_sharma)](https://github.com/AlphaVS-76/github-readme-twitter)
+
 <!-- <div align="center"> -->
 <details>
 <summary><b>GitHub Analytics</b></summary>
