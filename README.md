@@ -40,7 +40,7 @@
 
 <br/><br/>
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=paneer_sharma)](https://github.com/AlphaVS-76/github-readme-twitter)
+<!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=paneer_sharma)](https://github.com/AlphaVS-76/github-readme-twitter) -->
 
 <!-- <div align="center"> -->
 <details>
