@@ -6,9 +6,9 @@
 
 ### More about me:
 
-- 📖 I’m currently learning OOPS in Java/CPP, MySQL, and Pandas.
+- 📖 I’m currently learning OOPS in Java/CPP/Python, and Pandas.
 - 🤟 Interested in AI/ML, Data Analytics, and BlockChain.
-- 📑 I want to try my hands on Languages/frameworks/DBs such as MySQL, Pandas, Tensorflow, Scikit-Learn, Keras, Solidity, PyTorch, SciPy in the future.
+- 📑 I want to try my hands on Languages/frameworks/DBs such as Tensorflow, Scikit-Learn, Keras, Solidity, PyTorch, SciPy in the future.
 
 ---
 
@@ -37,6 +37,7 @@
 <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png"/>
 <img align="left" alt="R Programming" width="26px" src="https://user-images.githubusercontent.com/76773190/144071757-08b93b78-38d8-4ce4-8d75-211ac89306b8.png"/>
 <img align="left" alt="NumPy" width="26px" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png"/>
+<img align="left" alt="MySQL" width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-securing-mysql-and-connecting-wso-servers-yasassri-blog-18.png"/>
 
 <br/><br/>
 
