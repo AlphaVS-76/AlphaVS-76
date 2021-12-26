@@ -6,9 +6,9 @@
 
 ### More about me:
 
-- 📖 I’m currently learning OOPS in Java/CPP/Python, and Pandas.
+- 📖 I’m currently learning OOPS in Java/Python, and MatplotLib.
 - 🤟 Interested in AI/ML, Data Analytics, and BlockChain.
-- 📑 I want to try my hands on Languages/frameworks/DBs such as Tensorflow, Scikit-Learn, Keras, Solidity, PyTorch, SciPy in the future.
+- 📑 I want to try my hands on Languages/frameworks/DBs such as MatplotLib, Tensorflow, Scikit-Learn, Keras, Solidity, PyTorch, SciPy in the future.
 
 ---
 
@@ -21,8 +21,12 @@
 
 ---
 
-[![Instagram: Vaibhav Sharma](https://img.shields.io/badge/-VaibhavSharma-darkmagenta?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_besharam_sharma/)](https://www.instagram.com/_besharam_sharma/)
-[![Linkedin: Vaibhav Sharma](https://img.shields.io/badge/-VaibhavSharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)](https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)
+<h3 align="center">Connect with me:</h3>
+
+[![Instagram: Vaibhav Sharma](https://img.shields.io/badge/-Vaibhav_Sharma-517fa4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_besharam_sharma/)](https://www.instagram.com/_besharam_sharma/)
+[![Twitter: Vaibhav Sharma](https://img.shields.io/badge/-Vaibhav_Sharma-00aced?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/paneer_sharma)](https://twitter.com/paneer_sharma)
+[![Linkedin: Vaibhav Sharma](https://img.shields.io/badge/-Vaibhav_Sharma-007bb6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)](https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)
+[![Hackerank: Vaibhav Sharma](https://img.shields.io/badge/-Vaibhav_Sharma-bushgreen?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Vector_sharma)](https://www.hackerrank.com/Vector_sharma)
 [![GitHub Vaibhav Sharma](https://img.shields.io/github/followers/AlphaVS-76?label=follow&style=social)](https://github.com/AlphaVS-76)
 ![](https://komarev.com/ghpvc/?username=AlphaVS-76&color=blueviolet)
 
@@ -38,6 +42,7 @@
 <img align="left" alt="R Programming" width="26px" src="https://user-images.githubusercontent.com/76773190/144071757-08b93b78-38d8-4ce4-8d75-211ac89306b8.png"/>
 <img align="left" alt="NumPy" width="26px" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png"/>
 <img align="left" alt="MySQL" width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-securing-mysql-and-connecting-wso-servers-yasassri-blog-18.png"/>
+<img align="left" alt="Pandas" width="35px" src="https://pandas.pydata.org/static/img/favicon_white.ico"/>
 
 <br/><br/>
 
