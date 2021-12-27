@@ -8,7 +8,7 @@
 
 - 📖 I’m currently learning OOPS in Java/Python, and MatplotLib.
 - 🤟 Interested in AI/ML, Data Analytics, and BlockChain.
-- 📑 I want to try my hands on Languages/frameworks/DBs such as MatplotLib, Tensorflow, Scikit-Learn, Keras, Solidity, PyTorch, SciPy in the future.
+- 📑 I want to try my hands on Languages/Tools/DBs such as MatplotLib, Tensorflow, Scikit-Learn, Keras, Solidity, PyTorch, SciPy in the future.
 
 ---
 
@@ -30,7 +30,7 @@
 [![GitHub Vaibhav Sharma](https://img.shields.io/github/followers/AlphaVS-76?label=follow&style=social)](https://github.com/AlphaVS-76)
 ![](https://komarev.com/ghpvc/?username=AlphaVS-76&color=blueviolet)
 
-<h3 align="center">Languages and Frameworks:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
