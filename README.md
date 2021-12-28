@@ -6,9 +6,9 @@
 
 ### More about me:
 
-- 📖 I’m currently learning OOPS in Java/Python, and MatplotLib.
+- 📖 I’m currently learning OOPS in Java/Python, and Scikit-Learn(Linear Regression).
 - 🤟 Interested in AI/ML, Data Analytics, and BlockChain.
-- 📑 I want to try my hands on Languages/Tools/DBs such as MatplotLib, Tensorflow, Scikit-Learn, Keras, Solidity, PyTorch, SciPy in the future.
+- 📑 I want to try my hands on Languages/Tools/DBs such as Tensorflow, Scikit-Learn, Keras, Solidity, PyTorch, SciPy in the future.
 
 ---
 
@@ -43,6 +43,7 @@
 <img align="left" alt="NumPy" width="26px" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png"/>
 <img align="left" alt="MySQL" width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-securing-mysql-and-connecting-wso-servers-yasassri-blog-18.png"/>
 <img align="left" alt="Pandas" width="35px" src="https://pandas.pydata.org/static/img/favicon_white.ico"/>
+<img align="left" alt="Matplotlib" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png"/>
 
 <br/><br/>
 
