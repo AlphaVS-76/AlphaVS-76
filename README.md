@@ -6,7 +6,7 @@
 
 ### More about me:
 
-- 📖 I’m currently learning OOPS in Java/Python, and Scikit-Learn(Linear Regression).
+- 📖 I’m currently learning PyTorch(Gradient Descent and Linear Regression).
 - 🤟 Interested in AI/ML, Data Analytics, and BlockChain.
 - 📑 I want to try my hands on Languages/Tools/DBs such as Tensorflow, Scikit-Learn, Keras, Solidity, PyTorch, SciPy in the future.
 
