@@ -6,7 +6,7 @@
 
 ### More about me:
 
-- 📖 I’m currently learning RESTful API and Solidity.
+- 📖 I’m currently learning DSA, Fundamentals of API and Solidity.
 - 🤟 Interested in AI/ML, Data Analytics, Web3.0 and BlockChain.
 - 📑 Inn the future, I want to try my hands on Languages/Tools/DBs such as Tensorflow, Scikit-Learn, Keras, Solidity, PyTorch, Django, APIs, Flask, SciPy, OpenCV.
 
