@@ -6,7 +6,7 @@
 
 ### More about me:
 
-- 📖 I’m currently learning DSA, Machine Learning, Solidity, and algorithms like Linear/Logistic Regression.
+- 📖 I’m currently learning Machine Learning(Supervised), Solidity, and ML Algorithms like Linear/Logistic Regression.
 - 🤟 Interested in AI/ML, Data Analytics, Web3.0 and BlockChain.
 - 📑 Inn the future, I want to try my hands on Languages/Tools/DBs such as Tensorflow, Scikit-Learn, Keras, Solidity, PyTorch, Django, APIs, Flask, SciPy, OpenCV.
 
@@ -52,9 +52,6 @@
 
 <br/><br/>
 
-<!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=paneer_sharma)](https://github.com/AlphaVS-76/github-readme-twitter) -->
-
-<!-- <div align="center"> -->
 <details>
 <summary><b>GitHub Analytics</b></summary>
 <img align="center" alt="AlphaVS-76's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlphaVS-76&show_icons=true&hide_border=true&theme=algolia"/>
