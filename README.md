@@ -4,24 +4,29 @@
   </a>
 </h1>
 
-### More about me:
+### More about me
 
+<!-- <<<<<<< improve_readme -->
+- 📖 I’m currently learning Machine Learning (Supervised), Solidity, and ML Algorithms, like Linear/Logistic Regression.
+- 🤟 Interested in AI/ML, Data Analytics, Web 3.0, and Blockchain.
+- 📑 In the future, I want to try my hands on Languages/Tools/DBs such as Tensorflow, Scikit-Learn, Keras, Solidity, PyTorch, Django, APIs, Flask, SciPy, and OpenCV.
+<!-- ======= -->
 - 📖 I’m currently learning Machine Learning(Supervised), Solidity, and ML Algorithms like Ridge/Lasso Regression.
 - 🤟 Interested in AI/ML, Data Analytics, Web3.0 and BlockChain.
 - 📑 Inn the future, I want to try my hands on Languages/Tools/DBs such as Tensorflow, Scikit-Learn, Keras, Solidity, PyTorch, Django, APIs, Flask, SciPy, OpenCV.
+<!-- >>>>>>> master -->
 
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Playing Now on Spotify🎧
+### Playing Now on Spotify 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fwdc183ap0gdz08aet3dmm8s8&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-
 ---
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Connect with me</h2>
 
 [![Instagram: Vaibhav Sharma](https://img.shields.io/badge/-Vaibhav_Sharma-517fa4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_besharam_sharma/)](https://www.instagram.com/_besharam_sharma/)
 [![Twitter: Vaibhav Sharma](https://img.shields.io/badge/-Vaibhav_Sharma-00aced?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/paneer_sharma)](https://twitter.com/paneer_sharma)
@@ -30,20 +35,20 @@
 [![GitHub Vaibhav Sharma](https://img.shields.io/github/followers/AlphaVS-76?label=follow&style=social)](https://github.com/AlphaVS-76)
 ![](https://komarev.com/ghpvc/?username=AlphaVS-76&color=blueviolet)
 
-<h2 align="center">Skills:</h2>
+<h2 align="center">Skills</h2>
 
-<h3>WebDev:</h3>
+<h3>Web development</h3>
 <img align="left" alt="HTML5" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <br/><br/>
-<h3>Languauges:</h3>
+<h3>Programming Languauges</h3>
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
 <img align="left" alt="CPP" width="26px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png"/>
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png"/>
-<img align="left" alt="R Programming" width="26px" src="https://user-images.githubusercontent.com/76773190/144071757-08b93b78-38d8-4ce4-8d75-211ac89306b8.png"/>
+<img align="left" alt="R Language" width="26px" src="https://user-images.githubusercontent.com/76773190/144071757-08b93b78-38d8-4ce4-8d75-211ac89306b8.png"/>
 <br/><br/>
-<h3>Frameworks/Tools/Libraries:</h3>
+<h3>Frameworks/Tools/Libraries</h3>
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="NumPy" width="26px" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png"/>
 <img align="left" alt="MySQL" width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-securing-mysql-and-connecting-wso-servers-yasassri-blog-18.png"/>
