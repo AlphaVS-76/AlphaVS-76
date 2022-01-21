@@ -6,7 +6,7 @@
 
 ### More about me:
 
-- 📖 I’m currently learning Machine Learning(Supervised), Solidity, and ML Algorithms like Linear/Logistic Regression.
+- 📖 I’m currently learning Machine Learning(Supervised), Solidity, and ML Algorithms like Ridge/Lasso Regression.
 - 🤟 Interested in AI/ML, Data Analytics, Web3.0 and BlockChain.
 - 📑 Inn the future, I want to try my hands on Languages/Tools/DBs such as Tensorflow, Scikit-Learn, Keras, Solidity, PyTorch, Django, APIs, Flask, SciPy, OpenCV.
 
