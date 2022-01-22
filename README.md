@@ -6,15 +6,10 @@
 
 ### More about me
 
-<!-- <<<<<<< improve_readme -->
-<!-- - 📖 I’m currently learning Machine Learning (Supervised), Solidity, and ML Algorithms, like Ridge/Lasso Regression.
-- 🤟 Interested in AI/ML, Data Analytics, Web 3.0, and Blockchain.
-- 📑 In the future, I want to try my hands on Languages/Tools/DBs such as Tensorflow, Scikit-Learn, Keras, Solidity, PyTorch, Django, APIs, Flask, SciPy, and OpenCV. -->
-<!-- ======= -->
-- 📖 I’m currently learning Machine Learning(Supervised), Solidity, and ML Algorithms like Ridge/Lasso Regression.
+- 😁 I'm a 2nd year student who thinks whatever he does is not enough and strives to be more.
+- 📖 Currently learning Machine Learning(Supervised), Solidity, and ML Algorithms like Ridge/Lasso Regression.
 - 🤟 Interested in AI/ML, Data Analytics, Web3.0 and BlockChain.
-- 📑 In the future, I want to try my hands on Languages/Tools/DBs such as Tensorflow, Scikit-Learn, Keras, Solidity, PyTorch, Django, APIs, Flask, SciPy, OpenCV.
-<!-- >>>>>>> master -->
+- 📑 In the future, I want to try my hands on Languages/Tools/DBs such as Tensorflow, Scikit-Learn, Keras, Solidity, PyTorch, Django, Flask, SciPy, OpenCV.
 
 ---
 
