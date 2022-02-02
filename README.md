@@ -7,9 +7,9 @@
 ### More about me
 
 - 😁 I'm a 2nd year student who thinks whatever he does is not enough and strives to be more.
-- 📖 Currently learning Machine Learning(Supervised), Solidity, and ML Algorithms like Ridge/Lasso Regression.
+- 📖 Currently learning Machine Learning(Supervised), JavaScript, and ML Algorithms like Decision Tree Algorithm.
 - 🤟 Interested in AI/ML, Data Analytics, Web3.0 and BlockChain.
-- 📑 In the future, I want to try my hands on Languages/Tools/DBs such as Tensorflow, Scikit-Learn, Keras, Solidity, PyTorch, Django, Flask, SciPy, OpenCV.
+- 📑 In the future, I want to try my hands on Languages/Tools/DBs such as Tensorflow, Scikit-Learn, Keras, PyTorch, Django, Flask, SciPy, OpenCV, JavaScript, Node.js, Express.js, HardHat, Ganache, Truffle.
 
 ---
 
