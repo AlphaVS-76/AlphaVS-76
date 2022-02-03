@@ -7,9 +7,9 @@
 ### More about me
 
 - 😁 I'm a 2nd year student who thinks whatever he does is not enough and strives to be more.
-- 📖 Currently learning Machine Learning(Supervised), JavaScript, and ML Algorithms like Decision Tree Algorithm.
+- 📖 Currently learning Machine Learning(Supervised), and ML Algorithms like Decision Tree Algorithm.
 - 🤟 Interested in AI/ML, Data Analytics, Web3.0 and BlockChain.
-- 📑 In the future, I want to try my hands on Languages/Tools/DBs such as Tensorflow, Scikit-Learn, Keras, PyTorch, Django, Flask, SciPy, OpenCV, JavaScript, Node.js, Express.js, HardHat, Ganache, Truffle.
+- 📑 In the future, I want to try my hands on Languages/Tools/DBs such as Tensorflow, Scikit-Learn, Keras, PyTorch, Django, Flask, SciPy, OpenCV, Node.js, Express.js, HardHat, Ganache, Truffle.
 
 ---
 
@@ -33,8 +33,9 @@
 <h2 align="center">Skills</h2>
 
 <h3>Web development</h3>
-<img align="left" alt="HTML5" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="HTML5" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="javaScript" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
 <br/><br/>
 <h3>Programming Languauges</h3>
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
