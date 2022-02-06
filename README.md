@@ -6,8 +6,8 @@
 
 ### More about me
 
-- 😁 I'm a 2nd year student who thinks whatever he does is not enough and strives to be more.
-- 📖 Currently learning Machine Learning(Supervised), and ML Algorithms like Decision Tree Algorithm.
+- 😁 I'm a sophomore who thinks whatever he does is not enough and strives to be more.
+- 📖 Currently learning Web3.0, and OpenCV.
 - 🤟 Interested in AI/ML, Data Analytics, Web3.0 and BlockChain.
 - 📑 In the future, I want to try my hands on Languages/Tools/DBs such as Tensorflow, Scikit-Learn, Keras, PyTorch, Django, Flask, SciPy, OpenCV, Node.js, Express.js, HardHat, Ganache, Truffle.
 
