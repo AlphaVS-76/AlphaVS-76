@@ -6,10 +6,11 @@
 
 ### More about me
 
-- 😁 I'm a sophomore who thinks whatever he does is not enough and strives to be more.
-- 📖 Currently learning Web3.0, node.js, ether.js, and OpenCV.
+- 😁 I'm a Sophomore who thinks whatever he does is not enough and strives to be more.
+- 📖 Currently learning Web3.0, node.js, HardHat, and Keras.
+- 🚀 Fullstack Web3.0 Developer in the making.
 - 🤟 Interested in AI/ML, Data Analytics, Web3.0 and BlockChain.
-- 📑 In the future, I want to try my hands on Languages/Tools/DBs such as Tensorflow, Scikit-Learn, Keras, PyTorch, Django, Flask, SciPy, OpenCV, Node.js, Express.js, HardHat, Ganache, Truffle.
+- 📑 In the future, I want to try my hands on Languages/Tools/DBs such as Tensorflow, Scikit-Learn, Keras, PyTorch, Django, Flask, SciPy, Node.js, Express.js, HardHat, Ganache, Truffle.
 
 ---
 
@@ -51,6 +52,8 @@
 <img align="left" alt="MySQL" width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-securing-mysql-and-connecting-wso-servers-yasassri-blog-18.png"/>
 <img align="left" alt="Pandas" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/>
 <img align="left" alt="Matplotlib" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png"/>
+<img align="left" alt="OpenCV" width="43px" src="https://www.vhv.rs/dpng/d/38-384674_opencv-logo-png-transparent-png.png" />
+
 
 <br/><br/>
 
