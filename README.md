@@ -52,10 +52,10 @@
 <img align="left" alt="MySQL" width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-securing-mysql-and-connecting-wso-servers-yasassri-blog-18.png"/>
 <img align="left" alt="Pandas" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/>
 <img align="left" alt="Matplotlib" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png"/>
-<img align="left" alt="OpenCV" width="40px" src="https://www.vhv.rs/dpng/d/38-384674_opencv-logo-png-transparent-png.png" />
-<img align="left" alt="Keras" width="40px" src="https://img.stackshare.io/service/5601/keras.png" />
-<img align="left" alt="tensorflow" width="35px" src="https://www.pngitem.com/pimgs/m/75-753841_tensorflow-logo-transparent-hd-png-download.png" />
-
+<img align="left" alt="OpenCV" width="37px" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" />
+<img align="left" alt="Keras" width="38px" src="https://img.stackshare.io/service/5601/keras.png" />
+<img align="left" alt="tensorflow" width="33px" src="https://www.pngitem.com/pimgs/m/75-753841_tensorflow-logo-transparent-hd-png-download.png" />
+<img align="left" alt="PyTorch" width="38px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 
 <br/><br/>
 
