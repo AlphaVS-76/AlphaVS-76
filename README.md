@@ -7,10 +7,10 @@
 ### More about me
 
 - 😁 I'm a Sophomore who thinks whatever he does is not enough and strives to be more.
-- 📖 Currently learning Web3.0, node.js, HardHat.
+- 📖 Currently learning Node.js, HardHat ans Mocha.
 - 🚀 Fullstack Web3.0 Developer in the making.
 - 🤟 Interested in AI/ML, Data Analytics, Web3.0 and BlockChain.
-- 📑 In the future, I want to try my hands on Languages/Tools/DBs such as Scikit-Learn, PyTorch, Django, Flask, SciPy, Node.js, Express.js, HardHat, Ganache, Truffle.
+- 📑 Actively trying to get my hands on more Languages/Tools/DBs like Scikit-Learn, Django, SciPy, Node.js, Express.js, HardHat, Ganache, Truffle, React, Angular.
 
 ---
 
