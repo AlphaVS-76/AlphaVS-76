@@ -24,10 +24,9 @@
 
 <h2 align="center">Connect with me</h2>
 
-[![Instagram: Vaibhav Sharma](https://img.shields.io/badge/-Vaibhav_Sharma-517fa4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_besharam_sharma/)](https://www.instagram.com/_besharam_sharma/)
-[![Twitter: Vaibhav Sharma](https://img.shields.io/badge/-Vaibhav_Sharma-00aced?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/paneer_sharma)](https://twitter.com/paneer_sharma)
-[![Linkedin: Vaibhav Sharma](https://img.shields.io/badge/-Vaibhav_Sharma-007bb6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)](https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)
-[![Hackerank: Vaibhav Sharma](https://img.shields.io/badge/-Vaibhav_Sharma-bushgreen?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Vector_sharma)](https://www.hackerrank.com/Vector_sharma)
+[![Instagram: Vaibhav Sharma](https://img.shields.io/badge/-Instagram-brown?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_besharam_sharma/)](https://www.instagram.com/_besharam_sharma/)
+[![Twitter: Vaibhav Sharma](https://img.shields.io/badge/-Twitter-00aced?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/paneer_sharma)](https://twitter.com/paneer_sharma)
+[![Linkedin: Vaibhav Sharma](https://img.shields.io/badge/-LinkedIn-007bb6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)](https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)
 [![GitHub Vaibhav Sharma](https://img.shields.io/github/followers/AlphaVS-76?label=follow&style=social)](https://github.com/AlphaVS-76)
 ![](https://komarev.com/ghpvc/?username=AlphaVS-76&color=blueviolet)
 
