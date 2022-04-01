@@ -7,19 +7,18 @@
 ### More about me
 
 - 😁 I'm a Sophomore who thinks whatever he does is not enough and strives to be more.
-- 📖 Currently learning Node.js, HardHat and Mocha.
+- 📖 Currently learning Advanced JavaScript, Node.js, and HardHat. Also, testing my Problem Sokving Skills on [Leetcode](https://leetcode.com/AlphaVS-76/)
 - 🚀 Fullstack Web3.0 Developer in the making.
-- 🤟 Interested in AI/ML, Data Analytics, Web3.0 and BlockChain.
-- 📑 Actively trying to get my hands on more Languages/Tools/DBs like Scikit-Learn, Django, SciPy, Node.js, Express.js, HardHat, Ganache, Truffle, React, Angular.
+- 🤟 Interested in AI/ML, BlockChain, and WebDev.
+- 📑 Actively trying to get my hands on more Languages/Tools/DBs like Django, SciPy, Node.js, Express.js, HardHat, Ganache, Truffle, React, Angular.
 
-<!-- --- -->
-<!-- 
+---
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Playing Now on Spotify 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fwdc183ap0gdz08aet3dmm8s8&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
- -->
+ 
 ---
 
 <h2 align="center">Connect with me</h2>
