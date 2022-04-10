@@ -8,9 +8,8 @@
 
 - 😁 I'm a Sophomore who thinks whatever he does is not enough and strives to be more.
 - 📖 Currently learning Advanced JavaScript, Node.js, and HardHat. Also, testing my Problem Sokving Skills on [Leetcode](https://leetcode.com/AlphaVS-76/)
-- 🚀 Fullstack Web3.0 Developer in the making.
-- 🤟 Interested in AI/ML, BlockChain, and WebDev.
-- 📑 Actively trying to get my hands on more Languages/Tools/DBs like Django, SciPy, Node.js, Express.js, HardHat, Ganache, Truffle, React, Angular.
+- 🤟 Interested in AI/ML, BlockChain, WebDev, and DevOps.
+- 📑 Actively trying to get my hands on more Languages/Tools/DBs like Django, SciPy, Node.js, Express.js, HardHat, Ganache, React, Angular, Kubernetes, etc.
 
 ---
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
