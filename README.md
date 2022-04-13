@@ -39,7 +39,7 @@
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
 <img align="left" alt="CPP" width="30px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png"/>
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img align="left" alt="Java" width="30px" src="https://image.flaticon.com/icons/png/512/226/226777.png"/>
+<img align="left" alt="Java" width="32px" src="https://plumbr.io/app/uploads/2019/06/java.png"/>
 <img align="left" alt="R Language" width="30px" src="https://user-images.githubusercontent.com/76773190/144071757-08b93b78-38d8-4ce4-8d75-211ac89306b8.png"/>
 <img align="left" alt="Solidity" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png"/>
 <br/><br/>
