@@ -4,6 +4,9 @@
   </a>
 </h1>
 
+![Profile Banner](https://github.com/AlphaVS-76/AlphaVS-76/blob/master/Header.png?raw=true)
+<br>
+
 ### More about me
 
 - 😁 I'm a Sophomore who thinks whatever he does is not enough and strives to be more.
