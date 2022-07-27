@@ -9,8 +9,8 @@
 
 ### More about me
 
-- 😁 I'm a Sophomore who thinks whatever he does is not enough and strives to be more.
-- 📖 Currently learning Advanced JavaScript, and React. Also, testing my Problem Solving Skills on [Leetcode](https://leetcode.com/AlphaVS-76/) and [CodeChef](https://www.codechef.com/users/alphavs)
+- 😁 I'm a Third year Student who thinks whatever he does is not enough and strives to be more.
+- 📖 Currently learning Advanced JavaScript, React, and Bootstrap. Also, testing my Problem Solving Skills on [Leetcode](https://leetcode.com/AlphaVS-76/) and [CodeChef](https://www.codechef.com/users/alphavs)
 - 🤟 I have my interests in AI/ML, BlockChain, WebDev, and DevOps.
 - 📑 Actively trying to get my hands on more Frameworks/Tools like SASS, Tailwind, Bootstrap, Node.js, Express.js, Angular, Kubernetes, Docker, etc.
 
