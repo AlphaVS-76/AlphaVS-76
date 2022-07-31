@@ -9,7 +9,7 @@
 
 ### More about me
 
-- 😁 I'm a Third year Student who thinks whatever he does is not enough and strives to be more.
+- 😁 A Computer Science Student who thinks whatever he does is not enough and strives to be more.
 - 📖 Currently learning Advanced JavaScript, React, and Bootstrap.
 - 📑 I am also testing my Problem Solving Skills on [Leetcode](https://leetcode.com/AlphaVS-76/) and [CodeChef](https://www.codechef.com/users/alphavs)
 
