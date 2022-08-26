@@ -9,9 +9,9 @@
 
 ### More about me
 
-- 😁 A Computer Science Student who thinks whatever he does is not enough and strives to be more.
-- 📖 Currently learning Advanced JavaScript, React, and Bootstrap.
-- 📑 I am also testing my Problem Solving Skills on [Leetcode](https://leetcode.com/AlphaVS-76/) and [CodeChef](https://www.codechef.com/users/alphavs)
+- 😁 A Computer Science Student who thinks whatever he does is not enough and aims to be more.
+- 📖 Currently learning React.js, node.js, and Cloud Computing.
+- 📑 I am also testing my Problem Solving Skills on [Leetcode](https://leetcode.com/AlphaVS-76/) <!-- and [CodeChef](https://www.codechef.com/users/alphavs) -->
 
 <!-- --- -->
 <!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
