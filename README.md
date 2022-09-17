@@ -10,7 +10,7 @@
 ### More about me
 
 - 😁 A Computer Science Student who thinks whatever he does is not enough and aims to be more.
-- 📖 Currently learning React.js, node.js, and Cloud Computing.
+- 📖 Currently learning Front-end Web Developement.
 - 📑 I am also testing my Problem Solving Skills on [Leetcode](https://leetcode.com/AlphaVS-76/) <!-- and [CodeChef](https://www.codechef.com/users/alphavs) -->
 
 <!-- --- -->
@@ -41,13 +41,10 @@
 <img align="left" alt="CPP" width="30px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png"/>
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img align="left" alt="Java" width="32px" src="https://plumbr.io/app/uploads/2019/06/java.png"/>
-<img align="left" alt="R Language" width="30px" src="https://user-images.githubusercontent.com/76773190/144071757-08b93b78-38d8-4ce4-8d75-211ac89306b8.png"/>
-<img align="left" alt="Solidity" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png"/>
 <br/><br/>
 <h3>Tools/Libraries</h3>
 <img align="left" alt="Git" width="25px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="NumPy" width="25px" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png"/>
-<img align="left" alt="MySQL" width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-securing-mysql-and-connecting-wso-servers-yasassri-blog-18.png"/>
 <img align="left" alt="Pandas" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/>
 <img align="left" alt="Matplotlib" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png"/>
 
