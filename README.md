@@ -35,6 +35,7 @@
 <img align="left" alt="CSS3" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="javaScript" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
 <img align="left" alt="Bootstrap" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />
+<img align="left" alt="React" width="35px" src="https://cdn.cdnlogo.com/logos/r/85/react.svg" />
 <br/><br/>
 <h3>Programming Languauges</h3>
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
