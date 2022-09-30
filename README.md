@@ -10,7 +10,7 @@
 ### More about me
 
 - 😁 A Computer Science Student who thinks whatever he does is not enough and aims to be more.
-- 📖 Currently learning Front-end Web Developement.
+- 📖 Currently learning Front-end Web Developement and working with APIs.
 - 📑 I am also testing my Problem Solving Skills on [Leetcode](https://leetcode.com/AlphaVS-76/) <!-- and [CodeChef](https://www.codechef.com/users/alphavs) -->
 
 <!-- --- -->
