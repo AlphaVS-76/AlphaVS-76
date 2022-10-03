@@ -40,7 +40,6 @@
 <h3>Programming Languauges</h3>
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
 <img align="left" alt="CPP" width="30px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png"/>
-<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img align="left" alt="Java" width="32px" src="https://plumbr.io/app/uploads/2019/06/java.png"/>
 <br/><br/>
 <h3>Tools/Libraries</h3>
