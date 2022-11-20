@@ -48,6 +48,7 @@
 <img align="left" alt="NumPy" width="25px" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png"/>
 <img align="left" alt="Pandas" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/>
 <img align="left" alt="Matplotlib" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png"/>
+<img align="left" alt="NodeJS" width="32px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
 
 <br/><br/>
 
