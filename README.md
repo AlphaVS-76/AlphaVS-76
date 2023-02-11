@@ -23,6 +23,7 @@
 
 <h2 align="center">Connect with me</h2>
 
+[![Twitter: Vaibhav Sharma](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black&link=https://leetcode.com/Vaibhav_69/)](https://leetcode.com/Vaibhav_69/)
 [![Twitter: Vaibhav Sharma](https://img.shields.io/badge/-Twitter-00aced?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/paneer_sharma)](https://twitter.com/paneer_sharma)
 [![Linkedin: Vaibhav Sharma](https://img.shields.io/badge/-LinkedIn-007bb6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)](https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)
 [![GitHub Vaibhav Sharma](https://img.shields.io/github/followers/AlphaVS-76?label=follow&style=social)](https://github.com/AlphaVS-76)
