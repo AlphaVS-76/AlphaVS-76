@@ -9,22 +9,13 @@
 
 ### More about me
 
-- 😁 A Computer Science Student who thinks whatever he does is not enough and aims to be more.
-- 📖 Currently learning MERN Tech stack.
-- 📑 I am also testing my Problem Solving Skills on [Leetcode](https://leetcode.com/AlphaVS-76/) <!-- and [CodeChef](https://www.codechef.com/users/alphavs) -->
+- 😁 A Student who thinks whatever he does is not enough and aims to be more.
+- 📖 Currently aiming for Higher Studies in Germany.
 
 <!-- --- -->
-<!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Playing Now on Spotify 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fwdc183ap0gdz08aet3dmm8s8&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-  -->
----
 
 <h2 align="center">Connect with me</h2>
 
-[![Twitter: Vaibhav Sharma](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black&link=https://leetcode.com/Vaibhav_69/)](https://leetcode.com/Vaibhav_69/)
-[![Twitter: Vaibhav Sharma](https://img.shields.io/badge/-Twitter-00aced?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/paneer_sharma)](https://twitter.com/paneer_sharma)
 [![Linkedin: Vaibhav Sharma](https://img.shields.io/badge/-LinkedIn-007bb6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)](https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)
 [![GitHub Vaibhav Sharma](https://img.shields.io/github/followers/AlphaVS-76?label=follow&style=social)](https://github.com/AlphaVS-76)
 ![](https://komarev.com/ghpvc/?username=AlphaVS-76&color=blueviolet)
@@ -50,20 +41,3 @@
 <img align="left" alt="Pandas" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/>
 <img align="left" alt="Matplotlib" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png"/>
 <img align="left" alt="NodeJS" width="32px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
-
-<br/><br/>
-
-<details>
-<summary><b>GitHub Analytics</b></summary>
-<img align="center" width="38%" alt="AlphaVS-76's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlphaVS-76&show_icons=true&hide_border=true&theme=algolia"/>
-<img align="center" width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlphaVS-76&layout=compact&langs_count=8&theme=algolia"/>
-<img align="center" width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaVS-76&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
-</details>
-
-<br></br>
-
-<div align="center">
-
-### Show some ❤️ by Starring some Repositories!
-
-</div>
