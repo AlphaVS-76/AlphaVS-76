@@ -10,7 +10,7 @@
 ### More about me
 
 - 😁 A Student who thinks whatever he does is not enough and aims to be more.
-- 📖 Currently aiming for Higher Studies in Germany.
+- 📍 Master's student at Otto-von-Geuricke University (Magdeburg, Germany).
 
 <!-- --- -->
 
@@ -26,14 +26,14 @@
 <img align="left" alt="HTML5" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="javaScript" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
-<img align="left" alt="Bootstrap" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />
+<img align="left" alt="Bootstrap" width="37px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" />
 <img align="left" alt="React" width="35px" src="https://cdn.cdnlogo.com/logos/r/85/react.svg" />
 <br/><br/>
 <h3>Programming Languauges</h3>
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
 <img align="left" alt="CPP" width="30px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png"/>
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img align="left" alt="Java" width="32px" src="https://plumbr.io/app/uploads/2019/06/java.png"/>
+<img align="left" alt="Java" width="32px" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/java.png"/>
 <br/><br/>
 <h3>Tools/Libraries</h3>
 <img align="left" alt="Git" width="25px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
